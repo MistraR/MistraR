@@ -1,4 +1,4 @@
-### Hi,I am Wang Rui,A backend engineer👋
+### Hi👋,I am Wang Rui,A backend engineer :cn:
 <!--
 **MistraR/MistraR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
