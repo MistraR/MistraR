@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 <!--
 **MistraR/MistraR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:sunny: I want to be a greater coder 
+:sunny:  I want to be a greater coder 
 
-:turtle: My current work focuses on high availability back-end
+:turtle:  My current work focuses on high availability back-end
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistraR&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
