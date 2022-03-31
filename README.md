@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 :turtle:  My current work focuses on high availability backend and big data
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistraR&count_private=true&show_icons=true&theme=dracula&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistraR&count_private=true&show_icons=true&theme=dracula&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
